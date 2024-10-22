@@ -37,11 +37,11 @@
 ### **Clojure**:
 Clojure, современный функциональный язык, являющийся диалектом языка *LISP*. 
 
-Clojure is a dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+`Clojure is a dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.`
 
 Одним из главных преимуществ того, что Clojure основан на *LISP*, является его минималистичный и гибкий синтаксис, Clojure гомоиконичен, то есть код Clojure состоит из данных Clojure. Из LISP так же пришел и мощный инструмент макросов. 
  
-A macro is an ordinary piece of Lisp code that operates on another piece of putative Lisp code, translating it into (a version closer to) executable Lisp.
+`A macro is an ordinary piece of Lisp code that operates on another piece of putative Lisp code, translating it into (a version closer to) executable Lisp.`
 
 Clojure предлагает значительные преимущества для программистов:
 1. Clojure обобщает физический список *Lisp* в абстракцию, называемую
